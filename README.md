@@ -33,6 +33,7 @@ Prueba funcional de un flujo de compra en la pagina https://www.demoblaze.com/ q
 ## Instructions to run the test
 
 -Op1. Seleccionar el proyecto e2e_demoblaze_serenity y dar click derecho para seleccionar Open_In/Terminal, en el terminal escribir /gradlew y dar ENTER o ejecutar el archivo gradlew.bat para que genere el diagnostico de dependencias y reporte de Serenity junto con la ejecucion del test.
+
 -Op2. Luego de realizar el paso de opcion Op1 para ejecutar el test nuevamente se puede ir Dentro del proyecto C_e2e_demoblaze_serenity ir a src/test/java/com/e2e/runners y seleccione el archivo WebRunnerTest.java, dar click derecho para seleccionar Run WebRunnerTest.
 
 ## Project Status
