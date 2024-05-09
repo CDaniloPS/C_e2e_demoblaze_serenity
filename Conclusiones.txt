@@ -1,0 +1,5 @@
+
+- El flujo de compra puede ser automatizado sin contratiempos.
+- Existen algunas acciones que no se pueden automatizar pero existen alternativas para continuar.
+- Al realizar la automatización del flujo de compra se pudo identificar que los campos del formulario
+  no estan validados al momento de ingresar la información.

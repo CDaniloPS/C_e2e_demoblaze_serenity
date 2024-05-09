@@ -1,0 +1,17 @@
+
+n
+java:S1104"XMake CONFIRM_TEXT a static final constant or non-public and provide accessors if needed.(êð‚á
+u
+java:S1104"ZMake CONFIRM_BUTTON a static final constant or non-public and provide accessors if needed.(ÈÒÝœþÿÿÿÿ
+H
+java:S1444"2Make this "public static CONFIRM_TEXT" field final(êð‚á
+O
+java:S1444"4Make this "public static CONFIRM_BUTTON" field final(ÈÒÝœþÿÿÿÿ
+m
+java:S3008"WRename this field "CONFIRM_TEXT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êð‚á
+t
+java:S3008"YRename this field "CONFIRM_BUTTON" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÈÒÝœþÿÿÿÿ
+b
+java:S1128"GRemove this unused import 'net.thucydides.core.annotations.DefaultUrl'.(¢¿ç°øÿÿÿÿ
+V
+java:S1128";Remove this unused import 'org.openqa.selenium.WebElement'.(‰ïµ”þÿÿÿÿ

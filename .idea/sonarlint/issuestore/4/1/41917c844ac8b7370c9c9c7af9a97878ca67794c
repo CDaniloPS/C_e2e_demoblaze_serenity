@@ -1,0 +1,46 @@
+
+q
+java:S1104"VMake NAME_FIELD a static final constant or non-public and provide accessors if needed.(âÁìÏùÿÿÿÿ
+o
+java:S1104"YMake COUNTRY_FIELD a static final constant or non-public and provide accessors if needed.(í›ÇÅ
+l
+java:S1104	"VMake CITY_FIELD a static final constant or non-public and provide accessors if needed.(î“×Ñ
+x
+java:S1104
+"]Make CREDIT_CART_FIELD a static final constant or non-public and provide accessors if needed.(‡×šíøÿÿÿÿ
+r
+java:S1104"WMake MONTH_FIELD a static final constant or non-public and provide accessors if needed.(×½»¨ûÿÿÿÿ
+l
+java:S1104"VMake YEAR_FIELD a static final constant or non-public and provide accessors if needed.(É¼î¶
+|
+java:S1104"aMake PURCHASE_ORDER_BUTTON a static final constant or non-public and provide accessors if needed.(ùæ¤Ïýÿÿÿÿ
+K
+java:S1444"0Make this "public static NAME_FIELD" field final(âÁìÏùÿÿÿÿ
+I
+java:S1444"3Make this "public static COUNTRY_FIELD" field final(í›ÇÅ
+F
+java:S1444	"0Make this "public static CITY_FIELD" field final(î“×Ñ
+R
+java:S1444
+"7Make this "public static CREDIT_CART_FIELD" field final(‡×šíøÿÿÿÿ
+L
+java:S1444"1Make this "public static MONTH_FIELD" field final(×½»¨ûÿÿÿÿ
+F
+java:S1444"0Make this "public static YEAR_FIELD" field final(É¼î¶
+V
+java:S1444";Make this "public static PURCHASE_ORDER_BUTTON" field final(ùæ¤Ïýÿÿÿÿ
+p
+java:S3008"URename this field "NAME_FIELD" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âÁìÏùÿÿÿÿ
+n
+java:S3008"XRename this field "COUNTRY_FIELD" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(í›ÇÅ
+k
+java:S3008	"URename this field "CITY_FIELD" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(î“×Ñ
+w
+java:S3008
+"\Rename this field "CREDIT_CART_FIELD" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡×šíøÿÿÿÿ
+q
+java:S3008"VRename this field "MONTH_FIELD" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×½»¨ûÿÿÿÿ
+k
+java:S3008"URename this field "YEAR_FIELD" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É¼î¶
+{
+java:S3008"`Rename this field "PURCHASE_ORDER_BUTTON" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùæ¤Ïýÿÿÿÿ

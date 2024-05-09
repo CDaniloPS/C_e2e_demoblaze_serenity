@@ -1,0 +1,21 @@
+15:52:12.461 [main]  INFO  com.intuit.karate - Karate version: 1.5.0-SNAPSHOT
+15:55:16.942 [main]  INFO  com.intuit.karate - Karate version: 1.5.0-SNAPSHOT
+15:55:17.605 [main]  ERROR com.intuit.karate - src/test/resources/features/BuyInDemoblaze.feature:7
+Given what Guest enter to the home page
+no step-definition method match found for: what Guest enter to the home page
+src/test/resources/features/BuyInDemoblaze.feature:7
+15:55:17.963 [main]  INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) src/test/resources/features/BuyInDemoblaze.feature
+16:11:46.439 [main]  INFO  com.intuit.karate - Karate version: 1.5.0-SNAPSHOT
+16:11:46.685 [main]  INFO  com.intuit.karate.Suite - backed up existing 'target\karate-reports' dir to: target\karate-reports_1715029906681
+16:11:47.344 [main]  ERROR com.intuit.karate - src/test/resources/features/BuyInDemoblaze.feature:7
+Given what Guest enter to the home page
+no step-definition method match found for: what Guest enter to the home page
+src/test/resources/features/BuyInDemoblaze.feature:7
+16:11:47.763 [main]  INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) src/test/resources/features/BuyInDemoblaze.feature
+19:22:58.912 [main]  INFO  com.intuit.karate - Karate version: 1.5.0-SNAPSHOT
+19:22:59.152 [main]  INFO  com.intuit.karate.Suite - backed up existing 'target\karate-reports' dir to: target\karate-reports_1715041379145
+19:22:59.822 [main]  ERROR com.intuit.karate - src/test/resources/features/BuyInDemoblaze.feature:7
+Given what Guest enter to the home page
+no step-definition method match found for: what Guest enter to the home page
+src/test/resources/features/BuyInDemoblaze.feature:7
+19:23:00.253 [main]  INFO  com.intuit.karate.Suite - <<fail>> feature 1 of 1 (0 remaining) src/test/resources/features/BuyInDemoblaze.feature

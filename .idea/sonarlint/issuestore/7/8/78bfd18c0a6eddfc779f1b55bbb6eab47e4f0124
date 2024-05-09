@@ -1,0 +1,34 @@
+
+t
+java:S1104"YMake SEARCH_ITEM_1 a static final constant or non-public and provide accessors if needed.(Ë’»ƒøÿÿÿÿ
+l
+java:S1104"VMake ADD_ITEM_1 a static final constant or non-public and provide accessors if needed.(ÊÉ©µ
+t
+java:S1104	"YMake SEARCH_ITEM_2 a static final constant or non-public and provide accessors if needed.(»üÉíüÿÿÿÿ
+q
+java:S1104
+"VMake ADD_ITEM_2 a static final constant or non-public and provide accessors if needed.(«¾ïÀúÿÿÿÿ
+m
+java:S1104"WMake SEARCH_CART a static final constant or non-public and provide accessors if needed.(œê‰€
+N
+java:S1444"3Make this "public static SEARCH_ITEM_1" field final(Ë’»ƒøÿÿÿÿ
+F
+java:S1444"0Make this "public static ADD_ITEM_1" field final(ÊÉ©µ
+N
+java:S1444	"3Make this "public static SEARCH_ITEM_2" field final(»üÉíüÿÿÿÿ
+K
+java:S1444
+"0Make this "public static ADD_ITEM_2" field final(«¾ïÀúÿÿÿÿ
+G
+java:S1444"1Make this "public static SEARCH_CART" field final(œê‰€
+s
+java:S3008"XRename this field "SEARCH_ITEM_1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ë’»ƒøÿÿÿÿ
+k
+java:S3008"URename this field "ADD_ITEM_1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊÉ©µ
+s
+java:S3008	"XRename this field "SEARCH_ITEM_2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»üÉíüÿÿÿÿ
+p
+java:S3008
+"URename this field "ADD_ITEM_2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«¾ïÀúÿÿÿÿ
+l
+java:S3008"VRename this field "SEARCH_CART" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œê‰€

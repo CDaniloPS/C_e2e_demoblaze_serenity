@@ -1,0 +1,21 @@
+
+m
+java:S1104"WMake SEARCH_CART a static final constant or non-public and provide accessors if needed.(κ‰€
+t
+java:S1104"^Make PLACE_ORDER_BUTTON a static final constant or non-public and provide accessors if needed.(νήχώ
+G
+java:S1444"1Make this "public static SEARCH_CART" field final(κ‰€
+N
+java:S1444"8Make this "public static PLACE_ORDER_BUTTON" field final(νήχώ
+l
+java:S3008"VRename this field "SEARCH_CART" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(κ‰€
+s
+java:S3008"]Rename this field "PLACE_ORDER_BUTTON" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(νήχώ
+e
+java:S1128"CRemove this unused import 'net.serenitybdd.screenplay.Performable'.(π”„Ξόÿÿÿÿ8Ώλ±‰υ1
+b
+java:S1128"ERemove this unused import 'net.serenitybdd.screenplay.actions.Click'.(€Δψ8Ώλ±‰υ1
+a
+java:S1128"DRemove this unused import 'net.serenitybdd.screenplay.actions.Open'.(Δ”Υ8Ώλ±‰υ1
+i
+java:S1128"GRemove this unused import 'net.thucydides.core.annotations.DefaultUrl'.(ΆΏη°ψÿÿÿÿ8Ώλ±‰υ1
